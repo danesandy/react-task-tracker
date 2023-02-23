@@ -5,18 +5,18 @@
       "text": "doctor appointment",
       "day": "Nov 7th at 2pm",
       "reminder": true
-  },
-  {
+    },
+    {
       "id": 2,
       "text": "interview appointment",
       "day": "Nov 8th at 10am",
-      "reminder": false
-  },
-  {
-    "id": 3,
-    "text": "zoom appointment",
-    "day": "Nov 9th at 1pm",
-    "reminder": true
-}
+      "reminder": true
+    },
+    {
+      "id": 3,
+      "text": "zoom appointment",
+      "day": "Nov 9th at 1pm",
+      "reminder": true
+    }
   ]
 }
